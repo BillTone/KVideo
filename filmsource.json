@@ -446,5 +446,37 @@
         "group": "normal",
         "enabled": true,
         "priority": 56
+    },
+	{
+        "id": "heimuer",
+        "name": "黑木耳",
+        "baseUrl": "https://json.heimuer.xyz/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 57
+    },
+	{
+        "id": "iqiyi",
+        "name": "iqiyi资源",
+        "baseUrl": "https://www.iqiyizyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 58
+    },
+	{
+        "id": "mozhua",
+        "name": "魔爪资源",
+        "baseUrl": "https://mozhuazy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 59
+    },
+	{
+        "id": "ckzy",
+        "name": "CK资源",
+        "baseUrl": "https://ckzy.me/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 60
     }
 ]
